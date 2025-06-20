@@ -121,7 +121,7 @@ let winner = () => {
             disable();
         }
         else{
-            winMsg.innerText = "😔😔 Oh'noo You Lose , Computer Won !!";
+            winMsg.innerText = "😔😔 Oh'noo You Loose , Computer Won !!";
             wContainer.classList.remove("hide");
             disable();
         }
